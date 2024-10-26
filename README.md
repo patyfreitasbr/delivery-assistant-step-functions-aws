@@ -1,6 +1,6 @@
 # Assistente de Delivery com AWS Step Functions e Amazon Bedrock
 
-[Sobre](#sobre) • [Descrição do Projeto](#descrição-do-projeto) [ que aprendi](#o-que-aprendi) • [Exemplo de Fluxo](#exemplo-de-fluxo) •  [Tecnologias Utilizadas](#tecnologias-utilizadas) • [Referências](#referências) •  [Contato](#contato) 
+[Sobre](#sobre) • [Descrição do Projeto](#descrição-do-projeto) •  [O que aprendi](#o-que-aprendi) • [Exemplo de Fluxo](#exemplo-de-fluxo) •  [Tecnologias Utilizadas](#tecnologias-utilizadas) • [Referências](#referências) •  [Contato](#contato) 
 
 ## Sobre
 
